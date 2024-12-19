@@ -1,0 +1,28 @@
+*{
+    font-family: "Fredoka", serif;
+}
+.background{
+    background: url('bg-web.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 120px;
+}
+.color-utama{
+    color: #8C51FF;
+}
+.motion {
+    padding: 10px 20px;
+    background: rgb(140, 81, 255, 0.5);
+    border-radius: 30px;
+    font-weight: 600;
+    color: white;
+}
+
+.gambar-perkalian {
+    margin-top: 30px;
+}
+
+.text-3d {
+    color: #8C51FF;
+    filter: drop-shadow(2px 2px 2px #ffffff);
+}
